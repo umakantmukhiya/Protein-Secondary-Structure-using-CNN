@@ -1,0 +1,11 @@
+For a complete usage, download:
+
+cb513+profile_split1.npy
+cullpdb+profile_6133_filtered.npy
+
+
+The dataset can be downloaded at:
+
+https://lbs.cent.uw.edu.pl/pipred
+
+#note: make sure to unzip the .gz file and rename it as above

@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+matplotlib
+
+
+#After everything is ready ie Data and Dependencies run main.py file
+#then code will generate the .png files and save inside folder "/figure"
